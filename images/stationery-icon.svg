@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect width="400" height="400" rx="20" ry="20" fill="#f8f3e6" />
+  
+  <!-- Notebook -->
+  <rect x="120" y="140" width="160" height="200" rx="3" ry="3" fill="#ffffff" stroke="#ccc" stroke-width="2" />
+  <rect x="120" y="140" width="20" height="200" fill="#3498db" />
+  <path d="M120,170 L280,170 M120,200 L280,200 M120,230 L280,230 M120,260 L280,260 M120,290 L280,290" stroke="#e0e0e0" stroke-width="1" />
+  
+  <!-- Pencil -->
+  <path d="M230,120 L290,180 L290,190 L280,190 L220,130 Z" fill="#f1c40f" />
+  <path d="M220,130 L280,190 L270,200 L210,140 Z" fill="#e67e22" />
+  <path d="M210,140 L270,200 L260,210 L200,150 Z" fill="#f1c40f" />
+  <path d="M200,150 L260,210 L250,220 L190,160 Z" fill="#e67e22" />
+  <path d="M190,160 L250,220 L230,220 L170,160 Z" fill="#f1c40f" />
+  <!-- Pencil tip -->
+  <path d="M170,160 L230,220 L220,230 L160,170 Z" fill="#95a5a6" />
+  <path d="M160,170 L220,230 L210,240 L150,180 Z" fill="#7f8c8d" />
+  
+  <!-- Ruler -->
+  <rect x="80" y="200" width="130" height="25" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" transform="rotate(-15, 80, 200)" />
+  <path d="M100,190 L95,205 M120,185 L115,200 M140,180 L135,195 M160,175 L155,190 M180,170 L175,185" stroke="#bdc3c7" stroke-width="1" />
+  
+  <!-- Eraser -->
+  <rect x="150" y="100" width="40" height="25" rx="5" ry="5" fill="#e74c3c" />
+  <rect x="170" y="100" width="20" height="25" rx="0" ry="5" fill="#c0392b" />
+  
+  <!-- Paper clips -->
+  <path d="M100,120 Q90,120 90,130 L90,150 Q90,160 100,160 Q110,160 110,150 L110,135 Q110,125 100,125 Q90,125 90,135" stroke="#3498db" stroke-width="3" fill="none" />
+  <path d="M115,125 Q105,125 105,135 L105,155 Q105,165 115,165 Q125,165 125,155 L125,140 Q125,130 115,130 Q105,130 105,140" stroke="#2ecc71" stroke-width="3" fill="none" />
+  
+  <!-- Circle decoration -->
+  <circle cx="200" cy="200" r="160" stroke="#804000" stroke-width="5" fill="none" stroke-dasharray="15,15" />
+  
+  <!-- Text -->
+  <text x="200" y="355" font-family="serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#804000">Stationery</text>
+</svg>

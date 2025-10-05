@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70" width="200" height="70">
+  <!-- Background circle -->
+  <ellipse cx="35" cy="35" rx="30" ry="30" fill="#fff" />
+  
+  <!-- Bakery icon inside circle -->
+  <g transform="translate(12, 18) scale(0.7)">
+    <!-- Bread/cake shape -->
+    <path d="M20,20 C20,10 45,10 45,20 L45,40 C45,50 20,50 20,40 Z" fill="#d4a76a" />
+    <!-- Icing -->
+    <path d="M20,20 C20,15 45,15 45,20" stroke="#ffb347" stroke-width="3" fill="none" />
+    <!-- Decorative elements -->
+    <circle cx="25" cy="28" r="2" fill="#ffb347" />
+    <circle cx="33" cy="25" r="2" fill="#ffb347" />
+    <circle cx="40" cy="28" r="2" fill="#ffb347" />
+    <circle cx="28" cy="35" r="2" fill="#ffb347" />
+    <circle cx="36" cy="35" r="2" fill="#ffb347" />
+  </g>
+  
+  <!-- Text -->
+  <text x="74" y="30" font-family="serif" font-size="16" font-weight="bold" fill="#804000">Saraswathy</text>
+  <text x="74" y="48" font-family="serif" font-size="16" font-weight="bold" fill="#804000">Bakery</text>
+  
+  <!-- Decorative wheat elements -->
+  <g transform="translate(72, 53) scale(0.6)" fill="none" stroke="#804000" stroke-width="1.5">
+    <path d="M0,0 Q5,-10 10,0 M5,-10 L5,10" />
+    <path d="M15,0 Q20,-10 25,0 M20,-10 L20,10" />
+    <path d="M30,0 Q35,-10 40,0 M35,-10 L35,10" />
+    <path d="M45,0 Q50,-10 55,0 M50,-10 L50,10" />
+    <path d="M60,0 Q65,-10 70,0 M65,-10 L65,10" />
+    <path d="M75,0 Q80,-10 85,0 M80,-10 L80,10" />
+    <path d="M90,0 Q95,-10 100,0 M95,-10 L95,10" />
+    <path d="M105,0 Q110,-10 115,0 M110,-10 L110,10" />
+    <path d="M120,0 Q125,-10 130,0 M125,-10 L125,10" />
+    <path d="M135,0 Q140,-10 145,0 M140,-10 L140,10" />
+    <path d="M150,0 Q155,-10 160,0 M155,-10 L155,10" />
+    <path d="M165,0 Q170,-10 175,0 M170,-10 L170,10" />
+  </g>
+</svg>

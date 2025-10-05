@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <!-- Background color matching the primary color -->
+  <rect width="400" height="400" fill="#804000" />
+  
+  <!-- Pattern of small bakery-related items -->
+  <g opacity="0.15" fill="#ffffff">
+    <!-- Wheat element pattern -->
+    <g transform="translate(20, 20)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(100, 60)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(200, 40)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(280, 90)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(350, 30)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(40, 120)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(140, 150)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(250, 180)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    <g transform="translate(320, 140)">
+      <path d="M0,20 Q5,0 10,20 M5,0 L5,30" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    </g>
+    
+    <!-- Rolling pin -->
+    <g transform="translate(70, 240) rotate(-30)">
+      <rect x="0" y="0" width="40" height="10" rx="5" ry="5" />
+      <rect x="5" y="-5" width="30" height="20" rx="2" ry="2" />
+    </g>
+    <g transform="translate(220, 270) rotate(20)">
+      <rect x="0" y="0" width="40" height="10" rx="5" ry="5" />
+      <rect x="5" y="-5" width="30" height="20" rx="2" ry="2" />
+    </g>
+    
+    <!-- Bread -->
+    <g transform="translate(30, 180)">
+      <ellipse cx="15" cy="10" rx="15" ry="10" />
+    </g>
+    <g transform="translate(180, 230)">
+      <ellipse cx="15" cy="10" rx="15" ry="10" />
+    </g>
+    <g transform="translate(280, 220)">
+      <ellipse cx="15" cy="10" rx="15" ry="10" />
+    </g>
+    
+    <!-- Cookies -->
+    <g transform="translate(80, 320)">
+      <circle cx="8" cy="8" r="8" />
+      <circle cx="5" cy="5" r="1.5" />
+      <circle cx="11" cy="6" r="1.5" />
+      <circle cx="6" cy="11" r="1.5" />
+      <circle cx="10" cy="10" r="1.5" />
+    </g>
+    <g transform="translate(160, 340)">
+      <circle cx="8" cy="8" r="8" />
+      <circle cx="5" cy="5" r="1.5" />
+      <circle cx="11" cy="6" r="1.5" />
+      <circle cx="6" cy="11" r="1.5" />
+      <circle cx="10" cy="10" r="1.5" />
+    </g>
+    <g transform="translate(330, 330)">
+      <circle cx="8" cy="8" r="8" />
+      <circle cx="5" cy="5" r="1.5" />
+      <circle cx="11" cy="6" r="1.5" />
+      <circle cx="6" cy="11" r="1.5" />
+      <circle cx="10" cy="10" r="1.5" />
+    </g>
+    
+    <!-- Kitchen utensils -->
+    <g transform="translate(120, 310) rotate(45)">
+      <rect x="0" y="0" width="2" height="25" />
+      <ellipse cx="1" cy="30" rx="7" ry="5" />
+    </g>
+    <g transform="translate(250, 360) rotate(-60)">
+      <rect x="0" y="0" width="2" height="25" />
+      <ellipse cx="1" cy="30" rx="7" ry="5" />
+    </g>
+  </g>
+</svg>

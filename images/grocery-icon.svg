@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect width="400" height="400" rx="20" ry="20" fill="#f8f3e6" />
+  
+  <!-- Grocery bag -->
+  <path d="M110,150 L110,320 Q110,330 120,330 L280,330 Q290,330 290,320 L290,150 Z" fill="#bd8c4c" />
+  <path d="M110,150 L110,170 L290,170 L290,150 Z" fill="#a67c3f" />
+  <path d="M130,150 Q130,100 200,100 Q270,100 270,150" stroke="#804000" stroke-width="5" fill="none" />
+  
+  <!-- Bag handles -->
+  <path d="M150,150 Q150,130 170,130 Q190,130 190,150" stroke="#804000" stroke-width="5" fill="none" />
+  <path d="M210,150 Q210,130 230,130 Q250,130 250,150" stroke="#804000" stroke-width="5" fill="none" />
+  
+  <!-- Grocery items -->
+  <!-- Milk carton -->
+  <rect x="130" y="180" width="40" height="60" fill="#ffffff" stroke="#cccccc" stroke-width="1" />
+  <path d="M130,190 L170,190 M130,200 L170,200" stroke="#cccccc" stroke-width="1" />
+  
+  <!-- Bread -->
+  <rect x="180" y="180" width="40" height="30" rx="5" ry="5" fill="#f3e8d4" />
+  
+  <!-- Apple -->
+  <circle cx="240" cy="195" r="15" fill="#e74c3c" />
+  <path d="M240,180 Q245,175 250,180" stroke="#2ecc71" stroke-width="2" />
+  
+  <!-- Cereal box -->
+  <rect x="130" y="250" width="30" height="50" fill="#3498db" />
+  <rect x="135" y="255" width="20" height="10" fill="#ffffff" />
+  
+  <!-- Eggs -->
+  <ellipse cx="190" cy="260" rx="15" ry="20" fill="#ffffff" stroke="#eeeeee" stroke-width="1" />
+  <ellipse cx="220" cy="260" rx="15" ry="20" fill="#ffffff" stroke="#eeeeee" stroke-width="1" />
+  
+  <!-- Bottle -->
+  <path d="M240,250 L240,300 Q240,310 250,310 Q260,310 260,300 L260,250 L240,250" fill="#2ecc71" />
+  <rect x="245" y="240" width="10" height="10" fill="#2ecc71" />
+  
+  <!-- Circle decoration -->
+  <circle cx="200" cy="200" r="160" stroke="#804000" stroke-width="5" fill="none" stroke-dasharray="15,15" />
+  
+  <!-- Text -->
+  <text x="200" y="355" font-family="serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#804000">Groceries</text>
+</svg>

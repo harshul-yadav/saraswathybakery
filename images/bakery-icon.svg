@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect width="400" height="400" rx="20" ry="20" fill="#f8f3e6" />
+  
+  <!-- Bread loaf -->
+  <ellipse cx="200" cy="200" rx="140" ry="80" fill="#d4a76a" />
+  <path d="M100,180 C130,160 270,160 300,180 L300,240 C270,220 130,220 100,240 Z" fill="#bd8c4c" />
+  
+  <!-- Bread slices -->
+  <path d="M140,180 L140,260 C170,250 230,250 260,260 L260,180 C230,170 170,170 140,180 Z" fill="#f3e8d4" />
+  <path d="M160,180 L160,255 M180,175 L180,257 M200,173 L200,258 M220,175 L220,257 M240,180 L240,255" stroke="#e6d2b5" stroke-width="8" />
+  
+  <!-- Wheat decorations -->
+  <g fill="#804000">
+    <path d="M70,120 Q80,110 90,120 T110,120 T130,120 T150,120" stroke="#804000" stroke-width="3" fill="none" />
+    <path d="M70,130 Q80,120 90,130 T110,130 T130,130 T150,130" stroke="#804000" stroke-width="3" fill="none" />
+    <path d="M70,140 Q80,130 90,140 T110,140 T130,140 T150,140" stroke="#804000" stroke-width="3" fill="none" />
+    
+    <path d="M250,120 Q260,110 270,120 T290,120 T310,120 T330,120" stroke="#804000" stroke-width="3" fill="none" />
+    <path d="M250,130 Q260,120 270,130 T290,130 T310,130 T330,130" stroke="#804000" stroke-width="3" fill="none" />
+    <path d="M250,140 Q260,130 270,140 T290,140 T310,140 T330,140" stroke="#804000" stroke-width="3" fill="none" />
+  </g>
+  
+  <!-- Steam lines -->
+  <path d="M170,100 Q180,80 190,100" stroke="#804000" stroke-width="2" fill="none" />
+  <path d="M200,90 Q210,70 220,90" stroke="#804000" stroke-width="2" fill="none" />
+  <path d="M230,100 Q240,80 250,100" stroke="#804000" stroke-width="2" fill="none" />
+  
+  <!-- Circle decoration -->
+  <circle cx="200" cy="200" r="160" stroke="#804000" stroke-width="5" fill="none" stroke-dasharray="15,15" />
+  
+  <!-- Text -->
+  <text x="200" y="320" font-family="serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#804000">Fresh Bakery</text>
+</svg>
